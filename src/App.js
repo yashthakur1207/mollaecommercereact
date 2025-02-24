@@ -26,6 +26,7 @@ function App() {
     BackToTop()
   }, [pathname])
 
+
   return (
     <>
       <div className="page-wrapper">
